@@ -1,0 +1,82 @@
+body {
+    background:wheat;
+}
+.wrapper {
+    width: 350px;
+    text-align: center;
+}
+.saveBtn {
+    width: 100px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+    margin:15px;
+    background: #4f4f4d;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.saveBtn:hover{
+    width: 100px;
+    outline: none;
+    /* border: 1px solid black; */
+    border-radius: 7px;
+    padding: 5px;
+    margin:15px;
+    background: #1b1b1b;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.removeBtn {
+    width: 100px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 5px;
+    margin:15px;
+    background: #4f4f4d;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.removeBtn:hover{
+    width: 100px;
+    outline: none;
+    /* border: 1px solid black; */
+    border-radius: 7px;
+    padding: 5px;
+    margin:15px;
+    background: #1b1b1b;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.outer{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+
+}
+.cbox{
+    text-align: center;
+    font-size: 17px;
+    background-color: rgb(214, 191, 149);
+    box-shadow: #f3f308;
+    /* margin: 5px 1px; */
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+.container{
+    font-size: 13.5px;
+    color: black;
+}
+.con{
+    text-align: center;
+    font-size: 15px;
+    background-color: rgb(180, 254, 180);
+    margin-top: 20px;
+    
+
+}
